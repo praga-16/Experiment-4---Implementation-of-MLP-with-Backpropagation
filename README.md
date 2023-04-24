@@ -119,8 +119,8 @@ Normalize our dataset.
 
 ## PROGRAM 
 ```
-NAME : VISHAL GOWTHAMAN K R
-REG NO: 212221230123
+NAME : PRAGATHEESVARAN AB
+REG NO: 212221240039
 ```
 ```
 import pandas as pd
